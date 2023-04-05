@@ -1,1 +1,1 @@
-# frontend-studying
+# frontend-study
